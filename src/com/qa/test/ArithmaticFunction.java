@@ -20,6 +20,7 @@ public class ArithmaticFunction {
 		System.out.println("change in GitProject branch1");
 		System.out.println("change in GitProject branch2");
 		System.out.println("change in GitProject branch3");
+		System.out.println("change in GitProject branch4");
 	}
 	
 	public int sum() 
