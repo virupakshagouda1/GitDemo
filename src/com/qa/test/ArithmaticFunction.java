@@ -14,6 +14,8 @@ public class ArithmaticFunction {
 	public void test() {
 		System.out.println("test method");
 		System.out.println("change in GitProject");
+		System.out.println("change in GitProject1");
+		System.out.println("change in GitProject2");
 	}
 	
 	public int sum() 
