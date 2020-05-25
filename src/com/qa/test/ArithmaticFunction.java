@@ -13,6 +13,7 @@ public class ArithmaticFunction {
 
 	public void test() {
 		System.out.println("test method");
+		System.out.println("change in GitProject");
 	}
 	
 	public int sum() 
