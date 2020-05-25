@@ -16,6 +16,10 @@ public class ArithmaticFunction {
 		System.out.println("change in GitProject");
 		System.out.println("change in GitProject1");
 		System.out.println("change in GitProject2");
+		
+		System.out.println("change in GitProject branch1");
+		System.out.println("change in GitProject branch2");
+		System.out.println("change in GitProject branch3");
 	}
 	
 	public int sum() 
