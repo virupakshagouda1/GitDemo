@@ -4,7 +4,7 @@ agent any
 stages
 {
 	stage('Build'){
-	steps {bat "mvn clean"}
+	steps{	echo "Building code"}
 	}
 
 	stage('deply'){
@@ -12,11 +12,11 @@ stages
 	}
 
 	stage('test'){
-	steps{bat "mvn test"}
+	steps{	echo "Testing code"}
 	}
 
 	stage('Unit testing'){
-	steps{bat "mvn compile"}
+	steps{	echo "Unit testing code"}
 	}
 
 	stage('Release'){
